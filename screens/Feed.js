@@ -11,7 +11,7 @@ import {
 
 
 
-export default class App extends React.Component{
+export default class Feed extends React.Component{
     render () {
         return (
             <View style={styles.container}>
